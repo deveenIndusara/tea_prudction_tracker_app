@@ -50,7 +50,7 @@ class LoginScreen extends StatelessWidget {
               borderRadius: BorderRadius.circular(10.0),
             ),
             padding: EdgeInsets.all(10.0),
-            color: Colors.green,
+            color: Colors.blue,
             child: Text(
               'Sign up',
               style: TextStyle(fontSize: 30, color: Colors.white),
