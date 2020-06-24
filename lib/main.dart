@@ -21,7 +21,7 @@ class LoginScreen extends StatelessWidget {
       backgroundColor: Colors.grey,
       appBar: AppBar(
         title: Text('Tea'),
-        backgroundColor: Colors.green,
+        backgroundColor: Colors.blue,
       ),
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
